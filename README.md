@@ -23,3 +23,5 @@ Aside
 
 
  Here is a link to the working webpage: https://treylove.github.io/MyPortfolioPage/
+
+ ![image of deployed portfolio page](images\portfolioPageScreenshot.PNG)
